@@ -1,0 +1,8 @@
+User: In what year ST Petersburg was founded?
+Bot: <think>
+Okay, the user is asking in what year ST Petersburg was founded. Let me check the context provided.
+
+Looking through the text, there's a mention of the city's founding date. The text states: "Город федерального значения . Административный центр Северо-Западного федерального округа . Основан 16 (27) мая 1703 года царём Петром I." So that's 1703. But wait, the user's question is straightforward, so I should just state the year without extra details. The response needs to be in Markdown format as specified. Let me make sure there's no other mention. The rest of the text talks about other cities and their histories, so the answer is 1703.
+</think>
+
+1703.
